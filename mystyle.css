@@ -1,0 +1,79 @@
+/* navbar */
+.navbar{
+    text-align:center; 
+    
+}
+
+
+/* 背景透明化 */
+body{
+    margin:0px;
+    padding:0px;
+    background:#fff url(https://image.freepik.com/free-photo/wave-sea_74190-3504.jpg) center center fixed no-repeat;
+    background-size: cover;
+    opacity:0.8;
+}    
+
+/* 跑馬燈 */
+.GeneratedMarquee {
+    font-family:Microsoft JhengHei;
+    font-size:x-large;
+    font-style:italic;
+    font-weight:bold;
+    line-height:normal;
+    text-align:center;
+    color:rgb(8, 148, 141);
+    /* background-color: rgb(119, 228, 231); */
+    padding:4px;
+}
+
+/* 標題 */
+.myalert{
+    margin: 10;
+    text-align:center;
+}
+
+/* card-img-top */
+.card{
+    text-align:left;
+    overflow:hidden;
+    
+}
+
+/* iframe */
+.iframe-rwd {
+    position: relative;
+    padding-bottom: 50%;
+    padding-top: 30px;
+    overflow:hidden;
+    margin: 10;
+    text-align:center;
+}
+.iframe-rwd iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* 天氣 */
+.weather{
+    font-size:large;
+    font-family:Microsoft JhengHei;
+    font-weight:bold;
+    position: relative;
+    margin:10;    
+    background-color: rgb(39, 173, 173);
+    color: white;
+    text-align:center;
+    line-height:100px;
+}
+
+.span{
+    margin:0px;
+    padding:0px;
+    background:#fff url(https://image.freepik.com/free-photo/wave-sea_74190-3504.jpg) center center fixed no-repeat;
+    background-size: cover;
+    opacity:0.8;
+}    
